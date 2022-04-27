@@ -6,7 +6,7 @@ namespace Contributions
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Cl_Contributionscs contr = new Cl_Contributionscs();
         }
     }
 }
