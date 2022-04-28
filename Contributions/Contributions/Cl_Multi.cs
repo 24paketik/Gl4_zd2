@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Contributions
 {
-    internal class Cl_Multi:Cl_Contributionscs
+    public class Cl_Multi:Cl_Contributions
     {
         public void takeContr()
         {

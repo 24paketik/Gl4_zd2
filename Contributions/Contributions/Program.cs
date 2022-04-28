@@ -6,7 +6,7 @@ namespace Contributions
     {
         static void Main(string[] args)
         {
-            Cl_Contributionscs contr = new Cl_Contributionscs();
+            Cl_Contributions contr = new Cl_Contributions();
         }
     }
 }
