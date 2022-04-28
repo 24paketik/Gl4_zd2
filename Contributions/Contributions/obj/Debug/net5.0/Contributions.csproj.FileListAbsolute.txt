@@ -1,0 +1,16 @@
+C:\Users\comp0713\Desktop\Smst1\Gl4_zd2\Contributions\Contributions\bin\Debug\net5.0\Contributions.exe
+C:\Users\comp0713\Desktop\Smst1\Gl4_zd2\Contributions\Contributions\bin\Debug\net5.0\Contributions.deps.json
+C:\Users\comp0713\Desktop\Smst1\Gl4_zd2\Contributions\Contributions\bin\Debug\net5.0\Contributions.runtimeconfig.json
+C:\Users\comp0713\Desktop\Smst1\Gl4_zd2\Contributions\Contributions\bin\Debug\net5.0\Contributions.runtimeconfig.dev.json
+C:\Users\comp0713\Desktop\Smst1\Gl4_zd2\Contributions\Contributions\bin\Debug\net5.0\Contributions.dll
+C:\Users\comp0713\Desktop\Smst1\Gl4_zd2\Contributions\Contributions\bin\Debug\net5.0\ref\Contributions.dll
+C:\Users\comp0713\Desktop\Smst1\Gl4_zd2\Contributions\Contributions\bin\Debug\net5.0\Contributions.pdb
+C:\Users\comp0713\Desktop\Smst1\Gl4_zd2\Contributions\Contributions\obj\Debug\net5.0\Contributions.csproj.AssemblyReference.cache
+C:\Users\comp0713\Desktop\Smst1\Gl4_zd2\Contributions\Contributions\obj\Debug\net5.0\Contributions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\comp0713\Desktop\Smst1\Gl4_zd2\Contributions\Contributions\obj\Debug\net5.0\Contributions.AssemblyInfoInputs.cache
+C:\Users\comp0713\Desktop\Smst1\Gl4_zd2\Contributions\Contributions\obj\Debug\net5.0\Contributions.AssemblyInfo.cs
+C:\Users\comp0713\Desktop\Smst1\Gl4_zd2\Contributions\Contributions\obj\Debug\net5.0\Contributions.csproj.CoreCompileInputs.cache
+C:\Users\comp0713\Desktop\Smst1\Gl4_zd2\Contributions\Contributions\obj\Debug\net5.0\Contributions.dll
+C:\Users\comp0713\Desktop\Smst1\Gl4_zd2\Contributions\Contributions\obj\Debug\net5.0\ref\Contributions.dll
+C:\Users\comp0713\Desktop\Smst1\Gl4_zd2\Contributions\Contributions\obj\Debug\net5.0\Contributions.pdb
+C:\Users\comp0713\Desktop\Smst1\Gl4_zd2\Contributions\Contributions\obj\Debug\net5.0\Contributions.genruntimeconfig.cache

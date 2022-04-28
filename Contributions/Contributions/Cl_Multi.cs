@@ -12,13 +12,13 @@ namespace Contributions
         {
             Console.Write("ВВедите сумму для снятия со счёта:");
             balance -= Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Деньги успешно сняты");
+            Console.WriteLine("Деньги успешно сняты. Баланс счёта: " + balance);
         }
         public void putContr()
         {
             Console.Write("ВВедите сумму для внесение на счёт:");
             balance += Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Деньги успешно внесены");
+            Console.WriteLine("Деньги успешно внесены. Баланс счёта: "+balance);
         }
     }
 }

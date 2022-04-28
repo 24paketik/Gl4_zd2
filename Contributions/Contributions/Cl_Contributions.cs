@@ -11,16 +11,18 @@ namespace Contributions
         public double balance; // баланс
         public byte DateOpenDay; // Дата открытия
         public byte DateOpenMonth;
-        public byte DateOpenYear;
+        public int DateOpenYear;
         public void OpenContr()
         {
             Console.Write("Введие баланс счёта: ");
             balance = Convert.ToDouble(Console.ReadLine());
-            Console.Write("Введите  дату открытия счёта:");
-            Console.WriteLine("Введите день:");
+            Console.WriteLine("Введите  дату открытия счёта:");
+            Console.Write("Введите день:");
             DateOpenDay = Convert.ToByte( Console.ReadLine());
+            Console.Write("Введите месяц:");
             DateOpenMonth = Convert.ToByte(Console.ReadLine());
-            DateOpenYear = Convert.ToByte(Console.ReadLine());
+            Console.Write("Введите год:");
+            DateOpenYear = Convert.ToInt32(Console.ReadLine());
         }
         public void CloseContr()
         {

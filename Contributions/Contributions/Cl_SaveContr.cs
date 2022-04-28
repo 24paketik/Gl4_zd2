@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Contributions
 {
-    public class Cl_SaveConf:Cl_Contributions
+    public class Cl_SaveContr:Cl_Contributions
     {
         public double procence;
         public byte CloseDateDay;
